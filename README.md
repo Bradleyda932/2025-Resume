@@ -1,4 +1,4 @@
-# [Bradley Antholz]  
+# Bradley Antholz 
 ### [Welcome to my resume! I am currently a transfer senior attending Drake University, studying Data Analytics and Artificial Intelligence. ]  
 
 ---
