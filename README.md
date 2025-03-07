@@ -16,7 +16,11 @@
 
 - Able to adapt easily: In one week at Lowe's, I can go from Appliances to Cashiering to Hardware to Lumber to Garden. Whatever is needed to help out!
 
-- Team-player: Although I have never been a manager, I have learned how to manage my time at work and school well, and if I can't do something within a time period I am not afraid to ask any questions (seriously, I have been told I ask too many things!)
+- Team-player: Although I have never been a manager, I have learned how to manage my time at work and school well, and if I can't do something within a time period I am not afraid to ask for help or general questions (seriously, I have been told I ask too many things!)
+
+- Competitive: Not always a bad thing, I can be very competitive when it comes to both bettering myself and doing things as quickly yet efficiently as possible. 
+
+- Smart!: Despite taking hard classes like AP Physics I in high school and Calculus 2-3 (currently taking 4), Probability for Analytics, Machine Learning and Database Management in college, I have never had to retake any class and if I do poorly on one (hello, Computer Science II) I am always able to bounce back (hello, Machine Learning).
 
 ---
 
