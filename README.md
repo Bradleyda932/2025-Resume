@@ -9,7 +9,14 @@
 - 2. The Home Depot (retail), Order Fulfillment, from May 2022 to June 2023. Worked all around the store and learned many, many departments including (but not limited to): Garden, Hardware/Tools, Electrical. Quit due to poor management and moving cities.
 - 3. Lowe's (retail), Hardware/Tools, from July 2023 to Present (will be leaving in May). Same story as THD, but was able to stay at the same store for almost two years straight. Leaving to pursue opportunities in my field!
 
-- **Skills:** [Key technical and soft skills]  
+- **Skills:** 
+- Curious yet willing to learn: I love learning new things! This is why I knew the entire store at both retail places when I leave/left. 
+
+- Very computer-savvy: I help whoever needs it with their problems, no questions asked. Proven to be a very good debugger at things not related to coding! Love to think about things like that, too. 
+
+- Able to adapt easily: In one week at Lowe's, I can go from Appliances to Cashiering to Hardware to Lumber to Garden. Whatever is needed to help out!
+
+- Team-player: Although I have never been a manager, I have learned how to manage my time at work and school well, and if I can't do something within a time period I am not afraid to ask any questions (seriously, I have been told I ask too many things!)
 
 ---
 
