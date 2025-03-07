@@ -25,16 +25,29 @@
 ### Overall, I would say I am at my best when I am given a task, a time period and wiggle room for my own creations. See below for more details!
 ---
 
-## 🎓 Past and Future Colleges  
-- **Current/Past Education:** [Your college/university]  
-- **Future Plans:** [Any future education goals]  
+## 🎓 Ghost of Past, Present and Future...College! 
+- **Past College:**
+  * Graduated from Iowa Western Community College in May 2023 with a degree in Communications. Joined Phi Theta Kappa, a society for elite CC students in January 2023 with my GPA topping out at 3.9.
 
+- **Current School:**
+  * Drake University in Des Moines, IA. Came in not having a clear vision of the future yet leaving this year with a fun yet treacherous path. Will graduate in December 2025 with a Bachelor's degree in Data Analytics. 
+
+- **Future Plans:**   
+  * I plan on attending the University of Nebraska-Omaha in fall 2026 to pursue a Master's degree in Artificial Intelligence with no specified area of study as of now. Beyond this depends on what happens while I'm there!
 ---
 
 ## 💼 Experience Breakdown  
-### 📚 Current Courses & How They Help  
-- **[Course Name]** → [How it applies to your field]  
-- **[Course Name]** → [Relevant skills learned]  
+### 📚 Specific courses I've taken that will help me in the future (all at Drake)
+  * **Database Management** → 
+  * **CS I** → 
+  * **Digital Ethics** →
+  * **Human-Computer Interactions** →
+  * **Regression & Time Series** →
+
+### Current courses I'd like to highlight
+  * **Cloud and Database Systems** →
+  * **Generative AI** →
+  * **My Capstone** →
 
 ---
 
