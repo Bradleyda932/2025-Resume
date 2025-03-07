@@ -1,11 +1,14 @@
 # Bradley Antholz 
-### [Welcome to my resume! I am currently a transfer senior attending Drake University, studying Data Analytics and Artificial Intelligence. ]  
+### Welcome to my resume! I am currently a transfer senior attending Drake University, studying Data Analytics and Artificial Intelligence. I am hoping to expand my experience with an internship!
 
 ---
 
 ## 📌 The Basics: Work Experience & Skills  
 - **Work Experience:**
-- [1. Village Inn (sit-down restaurant), Dishwasher, from April 2021 to ~May 2022. Worked my way to a raise after 6 months and learned almost everything within the kitchen. Quit due to low pay yet high demand.]  
+- 1. Village Inn (sit-down restaurant), Dishwasher, from April 2021 to ~May 2022. Worked my way to a raise after 6 months and learned almost everything within the kitchen. Quit due to low pay yet high demand.  
+- 2. The Home Depot (retail), Order Fulfillment, from May 2022 to June 2023. Worked all around the store and learned many, many departments including (but not limited to): Garden, Hardware/Tools, Electrical. Quit due to poor management and moving cities.
+- 3. Lowe's (retail), Hardware/Tools, from July 2023 to Present (will be leaving in May). Same story as THD, but was able to stay at the same store for almost two years straight. Leaving to pursue opportunities in my field!
+
 - **Skills:** [Key technical and soft skills]  
 
 ---
