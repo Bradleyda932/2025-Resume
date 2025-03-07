@@ -22,6 +22,7 @@
 
 - Smart!: Despite taking hard classes like AP Physics I in high school and Calculus 2-3 (currently taking 4), Probability for Analytics, Machine Learning and Database Management in college, I have never had to retake any class and if I do poorly on one (hello, Computer Science II) I am always able to bounce back (hello, Machine Learning).
 
+### Overall, I would say I am at my best when I am given a task, a time period and wiggle room for my own creations. See below for more details!
 ---
 
 ## 🎓 Past and Future Colleges  
