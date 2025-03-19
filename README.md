@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f1af985-0fc3-4f1a-92bf-45b98e028766)# Bradley Antholz 
+# Bradley Antholz 
 ### Welcome to my resume! I am currently a transfer senior attending Drake University, studying Data Analytics and Artificial Intelligence. I am hoping to expand my experience with an internship!
 
 ---
@@ -41,11 +41,13 @@
 ### 💻 Now, lets talk coding and machine learning
 
 #### Proficient in:
-- R: Here is an example of a graph I made in R Studio for my capstone class. I have permission from the professor to show this as well!
-
+- R: Here are some examples of graphs I made in R Studio for my capstone class. I have permission from the professor to show this as well!
+- Screenshot of this code: ![image](https://github.com/user-attachments/assets/5736ce68-ca36-4887-b84e-179c69ec03ba)
 ![image](https://github.com/user-attachments/assets/83cda0ec-dcee-4f9b-812f-d2d7b6adf155)
-* here is another *
+
+- Screenshot of this code: ![image](https://github.com/user-attachments/assets/127232a7-241c-4347-8333-1590996940a7)
 ![image](https://github.com/user-attachments/assets/aa295f48-51f0-48cf-94f0-012e7f27a613)
+
 
 - SQL
 
