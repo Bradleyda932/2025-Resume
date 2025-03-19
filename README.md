@@ -41,9 +41,11 @@
 ### 💻 Now, lets talk coding and machine learning
 
 #### Proficient in:
-- R
+- R: Here is an example of a graph I made in R Studio for my capstone class. I have permission from the professor to show this as well!
 
 ![image](https://github.com/user-attachments/assets/83cda0ec-dcee-4f9b-812f-d2d7b6adf155)
+* here is another *
+![image](https://github.com/user-attachments/assets/aa295f48-51f0-48cf-94f0-012e7f27a613)
 
 - SQL
 
