@@ -5,24 +5,25 @@
 
 ## 📌 The Basics: Work Experience & Skills  
 - **Work Experience:**
-- 1. Village Inn (sit-down restaurant), Dishwasher, from April 2021 to ~May 2022. Worked my way to a raise after 6 months and learned almost everything within the kitchen. Quit due to low pay yet high demand.  
-- 2. The Home Depot (retail), Order Fulfillment, from May 2022 to June 2023. Worked all around the store and learned many, many departments including (but not limited to): Garden, Hardware/Tools, Electrical. Quit due to poor management and moving cities.
-- 3. Lowe's (retail), Hardware/Tools, from July 2023 to Present (will be leaving in May). Same story as THD, but was able to stay at the same store for almost two years straight. Leaving to pursue opportunities in my field!
+- 1. Village Inn (sit-down restaurant), Dishwasher, from April 2021 to ~May 2022. Worked my way to a raise after 6 months and learned almost everything within the kitchen, including: cooking, cleaning, hosting, cashiering and many more.
 
-- **Skills:** 
-- Curious yet willing to learn: I love learning new things! This is why I knew the entire store at both retail places when I leave/left. 
+- 2. The Home Depot (retail), Order Fulfillment, from May 2022 to June 2023. Worked all around the store and learned many, many departments including (but not limited to): Garden, Hardware/Tools, Electrical. 
 
-- Very computer-savvy: I help whoever needs it with their problems, no questions asked. Proven to be a very good debugger at things not related to coding! Love to think about things like that, too. 
+- 3. Lowe's (retail), Hardware/Tools, from July 2023 to Present (will be leaving in May). Same story as THD, but was able to stay at the same store for almost two years straight. Learned how to crisis manage, create leads & details (big money), and sell appliances! Achievements: Platinum service star award, several name mentions in customer surveys, mastered customer service and applied 5+ customers for Lowe's credit cards. 
 
-- Able to adapt easily: In one week at Lowe's, I can go from Appliances to Cashiering to Hardware to Lumber to Garden. Whatever is needed to help out!
+**Skills:** 
+***Applicable to job market***
+- Computer savvy: I've had a laptop since I was 13, and know how to help with not just computer but other electronic problems. Became the "go-to guy" at work & home for fixing random issues with computers.
+  
+- Love to learn: This skill really blossomed when I started working, as I love to learn new things out of both curiosity and a drive to help. If it helps, I want to learn it!
+  
+- Adaptability: When working in retail, this skill is a must-have. This also goes hand-in-hand with loving to learn, but there were days at THD that I would move from order fulfillment to hardware to lumber back to orders then to cashiering. I can do this not because I have to but because I want to.
+  
+- Crisis management: Although I have never been in a real position of power, I have found myself in countless situations that warrant acting like one. I have a natural ability to break down a chaotic time and figure out the best way forward (for example: one night at Lowe's, I was asked to help in 4 different places at once, so I said "Who needs help first? Second?" and we were able to tackle all of the issues in a timely manner.
+  
+- Team-player: Same old story as everyone else, except with the story above I have many examples of myself either being the leader or doing what is asked by authority. Managers (especially at Lowe's) come to me with many, many tasks because they know I will be able to handle it and complete it the right way. 
 
-- Team-player: Although I have never been a manager, I have learned how to manage my time at work and school well, and if I can't do something within a time period I am not afraid to ask for help or general questions (seriously, I have been told I ask too many things!)
 
-- Competitive: Not always a bad thing, I can be very competitive when it comes to both bettering myself and doing things as quickly yet efficiently as possible. 
-
-- Smart!: Despite taking hard classes like AP Physics I in high school and Calculus 2-3 (currently taking 4), Probability for Analytics, Machine Learning and Database Management in college, I have never had to retake any class and if I do poorly on one (hello, Computer Science II) I am always able to bounce back (hello, Machine Learning).
-
-### Overall, I would say I am at my best when I am given a task, a time period and wiggle room for my own creations. See below for more details!
 ---
 
 ## 🎓 Ghost of Past, Present and Future...College! 
