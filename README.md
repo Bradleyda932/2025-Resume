@@ -1,4 +1,4 @@
-# Bradley Antholz 
+![image](https://github.com/user-attachments/assets/4f1af985-0fc3-4f1a-92bf-45b98e028766)# Bradley Antholz 
 ### Welcome to my resume! I am currently a transfer senior attending Drake University, studying Data Analytics and Artificial Intelligence. I am hoping to expand my experience with an internship!
 
 ---
@@ -28,27 +28,30 @@
 
 ## 🎓 Ghost of Past, Present and Future...College! 
 - **Past College:**
-  * Graduated from Iowa Western Community College in May 2023 with a degree in Communications. Joined Phi Theta Kappa, a society for elite CC students in January 2023 with my GPA topping out at 3.9.
+  * Graduated from Iowa Western Community College in May 2023 with a degree in Communications. Joined Phi Theta Kappa, a society for elite CC students in January 2023 with my GPA topping out at 3.9. Took classes such as Media Writing, Photography, Intro to Mass Media and many more. 
 
 - **Current School:**
   * Drake University in Des Moines, IA. Came in not having a clear vision of the future yet leaving this year with a fun yet treacherous path. Will graduate in December 2025 with a Bachelor's degree in Data Analytics. 
 
 - **Future Plans:**   
-  * I plan on attending the University of Nebraska-Omaha in fall 2026 to pursue a Master's degree in Artificial Intelligence with no specified area of study as of now. Beyond this depends on what happens while I'm there!
+  * I plan on attending the University of Nebraska-Omaha in Fall 2026 to pursue a master's degree in artificial intelligence with no specified area of study as of now. Beyond this depends on what happens while I'm there!
 ---
 
 ## 💼 Experience Breakdown  
-### 📚 Specific courses I've taken that will help me in the future (all at Drake)
-  * **Database Management** → 
-  * **CS I** → 
-  * **Digital Ethics** →
-  * **Human-Computer Interactions** →
-  * **Regression & Time Series** →
+### 💻 Now, lets talk coding and machine learning
 
-### Current courses I'd like to highlight
-  * **Cloud and Database Systems** →
-  * **Generative AI** →
-  * **My Capstone** →
+#### Proficient in:
+- R
+
+![image](https://github.com/user-attachments/assets/83cda0ec-dcee-4f9b-812f-d2d7b6adf155)
+
+- SQL
+
+
+#### Still learning:
+- Python
+- Google Colab
+- VS Code
 
 ---
 
