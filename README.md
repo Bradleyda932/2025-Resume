@@ -12,6 +12,7 @@
 - 3. Lowe's (retail), Hardware/Tools, from July 2023 to Present (will be leaving in May). Same story as THD, but was able to stay at the same store for almost two years straight. Learned how to crisis manage, create leads & details (big money), and sell appliances! Achievements: Platinum service star award, several name mentions in customer surveys, mastered customer service and applied 5+ customers for Lowe's credit cards. 
 
 **Skills:** 
+
 ***Applicable to job market***
 - Computer savvy: I've had a laptop since I was 13, and know how to help with not just computer but other electronic problems. Became the "go-to guy" at work & home for fixing random issues with computers.
   
