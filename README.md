@@ -46,7 +46,7 @@
 ![image](https://github.com/user-attachments/assets/83cda0ec-dcee-4f9b-812f-d2d7b6adf155)
 
 - Screenshot of this code: ![image](https://github.com/user-attachments/assets/127232a7-241c-4347-8333-1590996940a7)
-![image](https://github.com/user-attachments/assets/aa295f48-51f0-48cf-94f0-012e7f27a613)
+![image](https://github.com/user-attachments/assets/6b110001-1cb5-4f15-841f-71a9afb680ab)
 
 
 - SQL
