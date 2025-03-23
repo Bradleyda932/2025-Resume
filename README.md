@@ -28,18 +28,60 @@
 **Proficiency:**
 * R: Learned from: Regression & Time Series, Case Studies in Data Analytics, Intro to R and SAS.
     * Example from Case Studies in Data Analytics:
+      ```r
+      # Separate income into brackets for easier analysis
+      data <- data %>%
+      mutate(
+        income_bracket = case_when(
+          annual_income == 0 ~ "No Income",
+          annual_income <= 5000 ~ "$0 - $5,000",
+          annual_income <= 10000 ~ "$5,000 - $10,000",
+          annual_income <= 20000 ~ "$10,000 - $20,000",
+          annual_income <= 50000 ~ "$20,000 - $50,000",
+          annual_income <= 100000 ~ "$50,000 - $100,000",
+          TRUE ~ "Over $100,000"
+        )
+      )
       
 * SQL: Learned from: Database Management, Cloud and Database Systems.
     * Example from Cloud and Database Systems:
-
+      ```sql
+      # What are the sIDs, sNames, GPA, cNames, and state for all students in the database with a
+      # GPA greater than 3.75 that applied to a college in the state of CA? Display only distinct values.
+      Select distinct S.sID, sName, GPA, C.cName, state
+      From Student S, College C, Apply A
+      Where S.sID = A.sID and C.cName = A.cName and GPA > 3.75 and state = 'CA';
+    
 * VS Code: Learned from: CS II, Cloud and Database Systems, Human-Computer Interactions.
 
 
 **Intermediate:**
 * Python: Learned from: CS I & II, Machine Learning, Cloud and Database Systems, Artificial Intelligence
-* Colab: Learned from: Machine Learning, Artificial Intelligence
     * Example from Artificial Intelligence:
-         
+     ```python
+     # Implementing an improvement to a hill climbing algorithm using a random seed
+     import random
+
+     tsp_instance = TravellingSalesAgentProblem(place="Des Moines, Iowa, USA", num_locations=10, random_seed=random.randint(0,10000))
+
+     def test_hill_climbing():
+
+     current_state = tsp_instance.get_destination_locations()
+     while True:
+         neighbor_state = best_successor(tsp_instance, current_state)
+         if tsp_instance.route_travel_time(route=neighbor_state) >= tsp_instance.route_travel_time(route=current_state):
+            break
+            print("Local minima reached")
+         current_state = neighbor_state
+
+     return current_state
+
+best_state = test_hill_climbing()
+
+print("Successor state with the lowest travel time:", best_state)
+print("Travel time:", tsp_instance.route_travel_time(route=best_state))
+tsp_instance.display_map(route=best_state)
+* Colab: Learned from: Machine Learning, Artificial Intelligence    
 * AWS: Learned from: Cloud and Database Systems
 
 **AI Models:**
