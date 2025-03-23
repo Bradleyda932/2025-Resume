@@ -18,12 +18,34 @@
   * 3.9 GPA, joined Phi Theta Kappa in January 2023. Took classes such as: Media Writing, Intro to Mass Media, Photography, Photojournalism.
 
 2. Drake University (August 2023-December 2025). Bachelors degree in Data Analytics.
-   * 2.7 GPA, relevant classes: Machine Learning, CS I & II, Calculus 1-4, Artificial Intelligence, Regression & Time Series, Generative AI, Cloud and Database Systems.
+   * Relevant classes: Machine Learning, CS I & II, Calculus 1-4, Artificial Intelligence, Regression & Time Series, Generative AI, Cloud and Database Systems.
 
 * I plan on attending the University of Nebraska-Omaha for a master's degree in Artifical Intelligence. 
 ---
 
 # Part 2: Experience
+
+**Proficiency:**
+* R: Learned from: Regression & Time Series, Case Studies in Data Analytics, Intro to R and SAS.
+    * Example from Case Studies in Data Analytics:
+      
+* SQL: Learned from: Database Management, Cloud and Database Systems.
+    * Example from Cloud and Database Systems:
+
+* VS Code: Learned from: CS II, Cloud and Database Systems, Human-Computer Interactions.
+
+
+**Intermediate:**
+* Python: Learned from: CS I & II, Machine Learning, Cloud and Database Systems, Artificial Intelligence
+* Colab: Learned from: Machine Learning, Artificial Intelligence
+    * Example from Artificial Intelligence:
+         
+* AWS: Learned from: Cloud and Database Systems
+
+**AI Models:**
+* ChatGPT
+* Gemini
+* Claude
 
 
 ---
