@@ -90,7 +90,7 @@
 * Gemini
 * Claude
     * Example of all three from Generative AI:
-      [My Digital Portfolio](https://docs.google.com/presentation/d/1H9J_AZQ_QZ_YfaYmrOS28-yD5uJ_DTq-yvFnzUncyxc/edit?usp=sharing)
+      [REDO ME ON MONDAY](https://docs.google.com/presentation/d/1H9J_AZQ_QZ_YfaYmrOS28-yD5uJ_DTq-yvFnzUncyxc/edit?usp=sharing)
 
 
 
