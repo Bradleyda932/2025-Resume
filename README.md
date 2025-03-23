@@ -58,29 +58,30 @@
 **Intermediate:**
 * Python: Learned from: CS I & II, Machine Learning, Cloud and Database Systems, Artificial Intelligence
     * Example from Artificial Intelligence:
-     ```python
-     # Implementing an improvement to a hill climbing algorithm using a random seed
-     import random
+      ```python
+      # Implementing an improvement to a hill climbing algorithm using a random seed
+      import random
 
-     tsp_instance = TravellingSalesAgentProblem(place="Des Moines, Iowa, USA", num_locations=10, random_seed=random.randint(0,10000))
+      tsp_instance = TravellingSalesAgentProblem(place="Des Moines, Iowa, USA", num_locations=10, random_seed=random.randint(0,10000))
 
-     def test_hill_climbing():
+      def test_hill_climbing():
 
-     current_state = tsp_instance.get_destination_locations()
-     while True:
-         neighbor_state = best_successor(tsp_instance, current_state)
-         if tsp_instance.route_travel_time(route=neighbor_state) >= tsp_instance.route_travel_time(route=current_state):
-            break
-            print("Local minima reached")
-         current_state = neighbor_state
+      current_state = tsp_instance.get_destination_locations()
+      while True:
+          neighbor_state = best_successor(tsp_instance, current_state)
+          if tsp_instance.route_travel_time(route=neighbor_state) >= tsp_instance.route_travel_time(route=current_state):
+             break
+             print("Local minima reached")
+          current_state = neighbor_state
 
-     return current_state
+      return current_state
 
-best_state = test_hill_climbing()
+      best_state = test_hill_climbing()
 
-print("Successor state with the lowest travel time:", best_state)
-print("Travel time:", tsp_instance.route_travel_time(route=best_state))
-tsp_instance.display_map(route=best_state)
+      print("Successor state with the lowest travel time:", best_state)
+      print("Travel time:", tsp_instance.route_travel_time(route=best_state))
+      tsp_instance.display_map(route=best_state)
+
 * Colab: Learned from: Machine Learning, Artificial Intelligence    
 * AWS: Learned from: Cloud and Database Systems
 
@@ -88,6 +89,9 @@ tsp_instance.display_map(route=best_state)
 * ChatGPT
 * Gemini
 * Claude
+    * Example of all three from Generative AI:
+      [My Digital Portfolio](https://docs.google.com/presentation/d/1H9J_AZQ_QZ_YfaYmrOS28-yD5uJ_DTq-yvFnzUncyxc/edit?usp=sharing)
+
 
 
 ---
