@@ -1,8 +1,7 @@
-# Bradley Antholz 
-### Welcome to my resume! I am currently a transfer senior attending Drake University, studying Data Analytics and Artificial Intelligence. I am hoping to expand my experience with an internship!
+# Bradley Antholz's 2025 Resume
 
 ---
-
+# Part 1: Background
 ## 📌 The Basics: Work Experience & Skills  
 **Work Experience:**
 - 1. Village Inn (sit-down restaurant), Dishwasher, from April 2021 to ~May 2022. Worked my way to a raise after 6 months and learned almost everything within the kitchen, including: cooking, cleaning, hosting, cashiering and many more.
@@ -36,7 +35,7 @@
 **Future Plans:**   
   * I plan on attending the University of Nebraska-Omaha in Fall 2026 to pursue a master's degree in artificial intelligence with no specified area of study as of now. Beyond this depends on what happens while I'm there!
 ---
-
+# Part 2: Experience
 ## 💼 Experience Breakdown  
 ### 💻 Now, lets talk coding and machine learning
 
@@ -83,7 +82,7 @@ Here are examples of some questions from labs I've done in my class "Cloud and D
 
 
 ---
-
+# Part 3: References and Information
 ## 🚀 What I am after in the job market  
 - ✅ I am looking for a paid intership/work in the Data analytics or artifical intelligence fields that fit my skills and experience. 
 - ✅ I am unable to relocate at this time, as I am in college in Des Moines right now and Omaha in 2026. Despite that, I am willing to commute within each city and/or remote work. 
