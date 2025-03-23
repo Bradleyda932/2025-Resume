@@ -16,7 +16,7 @@
 
 ## 🎓 Education
 1. Iowa Western Community College (August 2021-May 2023). Associates degree in Communications.
-  * 3.9 GPA, joined Phi Theta Kappa in January 2023. Took classes such as: Media Writing, Intro to Mass Media, Photography, Photojournalism.
+   * 3.9 GPA, joined Phi Theta Kappa in January 2023. Took classes such as: Media Writing, Intro to Mass Media, Photography, Photojournalism.
 
 2. Drake University (August 2023-December 2025). Bachelors degree in Data Analytics.
    * Relevant classes: Machine Learning, CS I & II, Calculus 1-4, Artificial Intelligence, Regression & Time Series, Generative AI, Cloud and Database Systems.
