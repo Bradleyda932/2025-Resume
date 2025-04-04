@@ -6,7 +6,7 @@
 # Our goal is to find useful trends in the demographics of food pantry visitors, and we specifically
 # targeted "at-risk" zip codes in the area. In addition, Lendie asked us if we could find why DMARC is seeing 
 # record numbers of people coming in 2024-2025.
-# My goal with this R code is to clean the data, separate it, then create graphs to have visual trends. 
+# My goal with this R code is to clean the data, separate it, then create graphs to visualize trends. 
 # ---
 
 ## Part 1: Loading and cleaning basic data
@@ -280,7 +280,7 @@ for (var in variables) {
 
 ## We follow the same steps as above here.
 # zip_code_data.csv is data from the 11 zip codes I identified. It has the same properties as the original dataset, 
-# just with less entries. 
+# just with fewer entries. 
 zip_code_data <- read.csv("/Users/bradley/Desktop/Sem 4/CS 190/dmarc project/zip_code_data.csv")
 
 zip_code_data <- zip_code_data %>%
