@@ -13,4 +13,4 @@
 
 
 ## Artificial Intelligence showcase: Generative AI Digital Portfolio 
-#### This is a constantly-updating slideshow of the ways we use AI in the Generative AI course. Showcased are the three platforms I use almost daily: ChatGPT, Gemini and Claude. Throughout this course, I have found that there are big differences between the three and how much of a deal it is to correctly prompt AI models. In addition, we have used: ImageFX, Dall-e, Meta AI, Stable Diffusion, MusicFX and ElevenLabs.
+#### This is a constantly-updating slideshow of the ways we use AI in the Generative AI course. Showcased are the three platforms I use almost daily: ChatGPT, Gemini and Claude. Throughout this course, I have found that there are big differences between the three and how much of a deal it is to correctly prompt AI models. In addition, we have used: ImageFX, Dall-e, Meta AI, Stable Diffusion, MusicFX and ElevenLabs. (Digital portfolio copy.pptx file, doesn't show with LFS, requires download to open)
