@@ -5,7 +5,7 @@
 
 
 ## Project 2: Machine Learning (Python, Colab)
-#### My first project in Machine Learning was very open-ended, with the only requirements being to choose a good dataset and a set order of when to do tasks. I had fun with creating this, and chose to use College/University data, because it has always fascinated me on how websites like U.S. News and Top Universities do their rankings, and the results I found were surpsising at first, but upon further analysis it all made sense.  (Machine Learning Project 1 file)
+#### My first project in Machine Learning was very open-ended, with the only requirements being to choose a good dataset and a set order of when to do tasks. I had fun with creating this, and chose to use College/University data, because it has always fascinated me on how websites like U.S. News and Top Universities do their rankings, and the results I found were surpsising at first, but upon further analysis it all made sense.  (Machine_Learning_Project_1.ipynb file)
 
 
 ## Project 3: Cloud and Database Systems (SQL, AWS/VS Code)
@@ -13,4 +13,4 @@
 
 
 ## Artificial Intelligence showcase: Generative AI Digital Portfolio 
-#### This is a constantly-updating slideshow of the ways we use AI in the Generative AI course. Showcased are the three platforms I use almost daily: ChatGPT, Gemini and Claude. Throughout this course, I have found that there are big differences between the three and how much of a deal it is to correctly prompt AI models. In addition, we have used: ImageFX, Dall-e, Meta AI, Stable Diffusion, MusicFX and ElevenLabs. 
+#### This is a constantly-updating slideshow of the ways we use AI in the Generative AI course. Showcased are the three platforms I use almost daily: ChatGPT, Gemini and Claude. Throughout this course, I have found that there are big differences between the three and how much of a deal it is to correctly prompt AI models. In addition, we have used: ImageFX, Dall-e, Meta AI, Stable Diffusion, MusicFX and ElevenLabs.
