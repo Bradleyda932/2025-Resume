@@ -9,7 +9,7 @@
 
 
 ## Project 3: Cloud and Database Systems (SQL, AWS/VS Code)
-#### Thus far in the course we have had over a dozen labs, and one I wanted to demonstrate is Lab03: Introduction to SQL. For this, I am using an AWS Terminal (and later in the course we use VS Code) and I am tasked with creating queries by filtering specific data, using premade data courtesy of Professor Moore. 
+#### Thus far in the course we have had over a dozen labs, and one I wanted to demonstrate is Lab03: Introduction to SQL. For this, I am using an AWS Terminal (and later in the course we use VS Code) and I am tasked with creating queries by filtering specific data, using premade data courtesy of Professor Moore. (Lab03.sql file)
 
 ## Artificial Intelligence showcase: Generative AI Digital Portfolio 
 #### This is a constantly-updating slideshow of the ways the class uses AI in the Generative AI course. Showcased are the three platforms I use almost daily: ChatGPT, Gemini and Claude. Throughout this course, I have found that there are big differences between the three and how much of a deal it is to correctly prompt AI models. In addition, in class I have used: ImageFX, Dall-e, Meta AI, Stable Diffusion, MusicFX and ElevenLabs. (Digital portfolio copy.pptx file, doesn't show with LFS, requires download to open)
