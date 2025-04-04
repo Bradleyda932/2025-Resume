@@ -2,7 +2,7 @@
 -- Lab 03: Intro to SQL
 
 -- This Lab is our introduction to SQL in Cloud and Database Systems, something I learned back in my first semester at Drake University with Database Management.
--- We were given an outline of what all Professor Moore was looking for, and it was done through the AWS EC2 Instance. 
+-- We were given an outline of what we need to do, and it was done through the AWS EC2 Instance. 
 
 ----- Question 1: Write a query and display the results of a query that displays all of the student IDs, names, and GPAs 
 ----- for all students in the database with a sID less than 300. Submit both the query and the results from running the query 
