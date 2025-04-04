@@ -2,6 +2,7 @@
 
 ## Project 1: Computer Science Capstone (R, RStudio)
 #### For my capstone course, my group of three was assigned data from a local non-profit organization right here in Des Moines. We are asked to clean and pull data and pick out any noticeable trends, but also to make it simple for someone with little experience to plug a small formula into the code and find anything they want. 
+###### (DMARC Project.R file)
 
 
 ## Project 2: Machine Learning (Python, Colab)
