@@ -5,7 +5,7 @@
 
 
 ## Project 2: Machine Learning (Python, Colab)
-#### My first project in Machine Learning was very open-ended, with the only requirements being to choose a good dataset and a set order of when to do tasks. I had fun with creating this, and chose to use College/University data, because it has always fascinated me on how websites like U.S. News and Top Universities do their rankings, and the results I found were surpsising at first, but upon further analysis it all made sense. 
+#### My first project in Machine Learning was very open-ended, with the only requirements being to choose a good dataset and a set order of when to do tasks. I had fun with creating this, and chose to use College/University data, because it has always fascinated me on how websites like U.S. News and Top Universities do their rankings, and the results I found were surpsising at first, but upon further analysis it all made sense.  (Machine Learning Project 1 file)
 
 
 ## Project 3: Cloud and Database Systems (SQL, AWS/VS Code)
