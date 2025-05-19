@@ -1,17 +1,45 @@
 # Drake University Project Showcase
 
-> These three projects and AI showcase are the highlights of my time at Drake, and all have received high graades along with valuable feedback. 
+> These three projects — plus an AI showcase — highlight my time at Drake. Each one received a strong grade and valuable feedback.
 
-## Project 1: Computer Science Capstone (R, RStudio) | Grade: 98.14% |
-For my capstone at Drake, my class was assigned real data from DMARC (Des Moines Area Religious Council) Food Pantry Network, and were tasked with figuring out many questions that a board member had for us. Those include: Why is DMARC being overrun as of late, who are these people, and where are they coming from? Our initial focus was the zip codes of visitors, but as we progressed we turned to the change in visitors overtime. We presented our project to four DMARC board members, and got very positive feedback from all of them. [Link to the deliverable repo](https://github.com/Bradleyda932/DMARC-Project-Deliverable) - Created entirely by me
+---
 
+## Project 1: Computer Science Capstone (R, RStudio) | Grade: 98.14%  
+For my capstone, our class worked with real data from DMARC (Des Moines Area Religious Council) Food Pantry Network. We were asked to answer key questions board members had, such as: Why is DMARC seeing such a surge in need? Who are the visitors, and where are they coming from? 
 
-## Project 2: Machine Learning (Python, Colab) | Grade: 98% |
-My first project in Machine Learning was very open-ended, with the only requirements being to choose a good dataset and a set order of when to do tasks. I had fun creating this, and chose to use College/University data, because it has always fascinated me how websites like U.S. News and Top Universities do their rankings. The results I found were surprising at first, but upon further analysis, it all made sense. [Link to the Colab notebook](https://colab.research.google.com/drive/10VQG-SypWoHKRV0bVFFrwt4SqGN7BO3R?usp=sharing) 
+We started by analyzing zip code patterns, then shifted toward changes in visitor counts over time. Our final results were presented to four DMARC board members — and we received positive feedback from every one of them.  
+[Link to the deliverable repo](https://github.com/Bradleyda932/DMARC-Project-Deliverable) 
 
+> This has been shared with permission from Professors Manley and Follett, and Oliver and Tim approved keeping their names in the repo for me to share.
 
-## Project 3: Cloud and Database Systems (SQL, AWS/VS Code) | Grade: 100% |
-In this course, we focused entirely on AWS and it's various services, so for the final project we were left to do what we wanted. I chose the option to recreate one of the professors labs, and added a five-minute video as a walkthrough. Since we have become experts at using AWS, this project took only a few hours to put together and I am very proud of the result. [Video demo](https://youtu.be/c47q4eyswJo) - 4:52 minutes
+---
 
-## Artificial Intelligence showcase: Generative AI Digital Portfolio 
-This is a constantly updating slideshow of the ways the class uses AI in the Generative AI course. Showcased are the three platforms I use almost daily: ChatGPT, Gemini and Claude. Throughout this course, I have found that there are big differences between the three and how important it is to correctly prompt AI models. In addition, in class I have used: ImageFX, Dall-E, Meta AI, Stable Diffusion, MusicFX and ElevenLabs. [Link to the portfolio](https://docs.google.com/presentation/d/1gxxbLjbwrt-RHYnDgLavBps4qDukjjNavULU4iQdw-8/edit?usp=sharing)
+## Project 2: Machine Learning (Python, Colab) | Grade: 98%  
+This was my first major machine learning project, and it was intentionally open-ended — just choose a dataset and follow a defined pipeline. I picked college/university data because I’ve always been curious how sites like U.S. News come up with their rankings.
+
+Some of the results caught me off guard at first, but after digging deeper, everything made sense.  
+[Link to the Colab notebook](https://colab.research.google.com/drive/10VQG-SypWoHKRV0bVFFrwt4SqGN7BO3R?usp=sharing)
+
+---
+
+## Project 3: Cloud and Database Systems (SQL, AWS, VS Code) | Grade: 100%  
+This course was all about working with AWS, so for the final project we had creative freedom. I chose to do a lab inspired by how my professor does theirs, and recorded a walkthrough video. 
+
+By the end of the semester, we were pretty comfortable using AWS — so this only took a few hours to complete, but I’m still proud of how it turned out.  
+[Video demo (4:52)](https://youtu.be/c47q4eyswJo)
+
+---
+
+## Artificial Intelligence Showcase: Generative AI Digital Portfolio  
+This is a constantly evolving slideshow from my Generative AI class. It highlights how I use three main platforms — ChatGPT, Gemini, and Claude — nearly every day. One big takeaway from this course has been how different these models are, and how much prompting style matters.
+
+Other AI tools I’ve explored include: ImageFX, DALL·E, Meta AI, Stable Diffusion, MusicFX, and ElevenLabs.  
+
+> Note: This portfolio is how we turn things in for class, so no specific grades are present. 
+[Link to the portfolio](https://docs.google.com/presentation/d/1gxxbLjbwrt-RHYnDgLavBps4qDukjjNavULU4iQdw-8/edit?usp=sharing)
+
+---
+
+## Tools Used  
+`R`, `SQL`, `Python`, `VS Code`, `Colab`, `AWS`, `AWS EC2`, `GitHub`, `ChatGPT`, `Gemini`, `Claude`, `pandas`, `ggplot2`
+
