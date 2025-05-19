@@ -5,7 +5,10 @@
 ---
 
 ## Project 1: Computer Science Capstone (R, RStudio) | Grade: 98.14%  
-For my capstone, our class worked with real data from DMARC (Des Moines Area Religious Council) Food Pantry Network. We were asked to answer key questions board members had, such as: Why is DMARC seeing such a surge in need? Who are the visitors, and where are they coming from? In order to accomplish this, my group performed trend analysis and found various answers, one of which was ![The rise of middle class minorities](https://github.com/user-attachments/assets/181fe047-41e2-46f4-8c23-b23a1c969c97)
+For my capstone, our class worked with real data from DMARC (Des Moines Area Religious Council) Food Pantry Network. We were asked to answer key questions board members had, such as: Why is DMARC seeing such a surge in need? Who are the visitors, and where are they coming from? In order to accomplish this, my group performed trend analysis and found various answers — one of which is shown below:
+
+![The rise of middle class minorities](./DMARC.png)
+
 
 
 We started by analyzing zip code patterns, then shifted toward changes in visitor counts over time. Our final results were presented to four DMARC board members — and we received positive feedback from every one of them.  
